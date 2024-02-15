@@ -8,17 +8,17 @@
 
     <div class="page">
       <div class="clearfix">
-        <div class="sm-col sm-col-6 mb3  person">
-          <img class="rounded" src="../public/pic.png" height="335">
+        <div class="sm-col sm-col-6 mb3 person">
+          <img class="rounded" src="/pic.png" height="335">
           <div class="signs">
             <div class="name mt2">Guillermo Valentín Sánchez</div>
-            <div class="job mt1  ">Desarrollador front end. Diseñador gráfico.</div>
-            <p class="job ">Santa Pola  / Alicante • Edad: 14/02/73</p>
+            <div class="job mt1">Desarrollador front end. Diseñador gráfico.</div>
+            <p class="job">Santa Pola  / Alicante • Edad: 14/02/73</p>
           </div>
         </div>
         <div class="sm-col sm-col-6  ">
           <p class="text">Desde el año 1992 he trabajado en entornos de edición y publicidad.
-            Entusiasta de las tecnologías y desarrollo de software, autodidacta, codificando profesionalemente desde 2012.</p>
+            Entusiasta de las tecnologías y desarrollo de software, autodidacta, codificando profesionalmente desde 2012.</p>
 
           <p class="text">Desarrollo de grandes proyectos, apps nocode, experto en Vue, Typescript y nuxt.</p>
           <p class="text">Usabilidad, interfaces gráficas, WYSIWYG, multiidioma.</p>
@@ -156,13 +156,14 @@
               <li>• Cookies.</li>
               <li>• Canvas.</li>
               <li>• Audio y video en la web.</li>
-              <li>• Pre-procesadores.</li>
-              <li>• Desarrollo responsive, mobile first.</li>
+
 
             </ul>
         </div>
-        <div class="sm-col sm-col-6  ">
+        <div class="sm-col sm-col-6">
            <ul class="list-reset">
+             <li>• Pre-procesadores.</li>
+             <li>• Desarrollo responsive, mobile first.</li>
             <li>• Frameworks: Bootstrap, Fundation, Pure, UI-Kit, Skeleton...</li>
             <li>• Tipografía web.</li>
             <li>• Gráficos vectoriales (svg).</li>
@@ -178,7 +179,6 @@
             <li>• Framework Vue (preferido).</li>
             <li>• Nuxt.</li>
             <li>• Motores de plantillas (pug, blade, liquid.. ).</li>
-            <li>• Index DB, local/session storage.</li>
             <li>• Gestión de estado / arquitectura flux.</li>
             <li>• Fundamentos de UX.</li>
             <li>• Prototipos UI.</li>
