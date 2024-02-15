@@ -9,7 +9,7 @@
     <div class="page">
       <div class="clearfix">
         <div class="sm-col sm-col-6 mb3 person">
-          <img class="rounded" src="/pic.png" height="335">
+          <img class="rounded" src="/pic.jpeg" height="335">
           <div class="signs">
             <div class="name mt2">Guillermo Valentín Sánchez</div>
             <div class="job mt1">Desarrollador front end. Diseñador gráfico.</div>
